@@ -1,1 +1,1 @@
-{"id": 1, "name": "horikeso", "description": "API mock example using GitHub"}
+{"id": 1, "name": "horikeso", "address": "Japan", "gender":1, "age":null, "authenticatedAt":"2021-09-17 １２:00:00", "createdAt":"2021-09-17 00:00:00", "remarks": "API MOCK EXAMPLE using GitHub"}
